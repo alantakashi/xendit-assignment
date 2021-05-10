@@ -2,7 +2,7 @@
 This assignment is developed using **create-react-app**. The benefit of using `cra` is that you don't have to worry about webpack, babel and other build dependecies.
 
 ## Hosting URL
-You can access the hosted application via https://xendit-242a3.web.app/
+You can access the hosted application via https://xendit-242a3.web.app/, but due to https call over to http, the search request will failed, thus recommend to run on local.
 
 ## Getting Started
 
